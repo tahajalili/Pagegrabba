@@ -1,0 +1,6 @@
+__pycache__/
+*.egg-info/
+pages/
+stop.png
+*.pdf
+.DS_Store
